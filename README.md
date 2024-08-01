@@ -2,7 +2,7 @@
 
 [](https://github.com/avinash201199/profile-readme-templates/blob/main/Profile%20Readme%20Templates/Dhruva%20Bhat.md#hi--im-dhruva-bhat-s-n)
 
-## A passionate web-developer from India
+## A passionate full stack web-developer from India
 
 [![](https://visitcount.itsvg.in/api?id=toufiqfarhan0&icon=0&color=0)](https://visitcount.itsvg.in)
 
