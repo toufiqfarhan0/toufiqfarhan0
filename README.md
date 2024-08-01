@@ -12,7 +12,7 @@
 -   👨‍💻 All of my projects are available at  [https://github.com/toufiqfarhan0](https://github.com/gitcuber369)
    
 
--   💬 Ask me about  **Java HTML CSS JavaScript**
+-   💬 Ask me about  **HTML CSS JavaScript ReactJS**
     
 -   📫 How to reach me  **[toufiqfarhan0@gmail.com](mailto:arpitchaudhary2003@gmail.com)**
 
