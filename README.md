@@ -19,6 +19,7 @@
 
 -   ⚡ Fun fact  **I am not only a man behind the computer.**
 
+-    **Portfolio**: https://toufiqfarhan.netlify.app/
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toufiq-farhan-006tf/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toufiq_farhan) 
