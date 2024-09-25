@@ -14,12 +14,12 @@
 
 -   💬 Ask me about  **HTML CSS JavaScript ReactJS**
     
--   📫 How to reach me  **[toufiqfarhan0@gmail.com](mailto:arpitchaudhary2003@gmail.com)**
+-   📫 How to reach me  **[toufiqfarhan0@gmail.com](mailto:toufiqfarhan0@gmail.com-)**
 
 
 -   ⚡ Fun fact  **I am not only a man behind the computer.**
 
--    **Portfolio**: https://toufiqfarhan.netlify.app/
+-    **Portfolio**: https://toufiqfarhaan.netlify.app/
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toufiq-farhan-006tf/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toufiq_farhan) 
