@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hey there, I'm Toufiq Farhan 👋
+# Toufiq Farhan
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Full+Stack+%26+AI+Systems+Engineer;Building+Autonomous+Agents+%26+Web+Apps;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js;Open+Source+Builder+%26+Hackathon+Shipper)](https://git.io/typing-svg)
 
 <p align="center">
-  <strong>Passionate Full Stack & AI Systems Engineer based in India 🇮🇳</strong><br/>
+  <strong>Full Stack & AI Systems Engineer based in Hyderabad, India</strong><br/>
   Crafting resilient distributed systems, autonomous AI agents, and fast, accessible web applications.
 </p>
 
-<!-- Social Links (Only X as requested) -->
+<!-- Social Links (Only X as requested, no other socials) -->
 <p align="center">
   <a href="https://x.com/toufiq_farhan" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X (@toufiq_farhan)" />
@@ -22,16 +22,16 @@
 
 ---
 
-### 🚀 What I Do
+### Focus & Architecture
 
-- 🧠 **AI & Context Engineering:** Benchmarking GraphBLAS matrix traversals, vector databases, and multi-tenant voice agents (AssemblyAI, HydraDB, SlateDB).
-- 🌐 **Full Stack Development:** Architecting responsive, modern web platforms using Next.js, React, TypeScript, Tailwind CSS, and Node.js.
-- ⚡ **Autonomous Agents & Tooling:** Building autonomous recovery systems, pre-flight release simulators, and developer CLI workflows.
-- 🛠️ **Open Source:** Active author and contributor with 60+ public projects and contributions across community repositories.
+- **AI & Context Engineering:** Benchmarking GraphBLAS matrix traversals, vector databases, and multi-tenant voice agents (AssemblyAI, HydraDB, SlateDB).
+- **Full Stack Development:** Architecting responsive, modern web platforms using Next.js, React, TypeScript, Tailwind CSS, and Node.js.
+- **Autonomous Agents & Tooling:** Building autonomous recovery systems, pre-flight release simulators, and developer CLI workflows.
+- **Open Source:** Active author and contributor with 60+ public projects and contributions across community repositories.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -47,26 +47,26 @@
 
 ---
 
-### 🔥 Featured Projects & Hackathons
+### Featured Projects & Hackathons
 
-- ⚡ **[HydraDB Agent Context Traversals](https://github.com/toufiqfarhan0/hydradb-hack-nov)** · *Python, GraphBLAS, SlateDB, OpenCypher*  
+- **[HydraDB Agent Context Traversals](https://github.com/toufiqfarhan0/hydradb-hack-nov)** · *Python, GraphBLAS, SlateDB, OpenCypher*  
   Benchmarked GraphBLAS matrix traversals over HydraDB & SlateDB to resolve exact agent subgraphs in <1ms, boosting Turn-0 task success from 26.7% to 86.7%. [Live Studio](https://lucen-app.onrender.com)
 
-- 🎙️ **[OmniDesk](https://github.com/toufiqfarhan0/omni-desk)** · *TypeScript, Next.js, AssemblyAI*  
+- **[OmniDesk](https://github.com/toufiqfarhan0/omni-desk)** · *TypeScript, Next.js, AssemblyAI*  
   Multi-tenant AI voice agent scheduler with real-time speech-to-text via AssemblyAI, managing agent lifecycles and automated appointments. [Live Demo](https://omni-desk-rho.vercel.app)
 
-- 🛡️ **[NeatHack Recovery Agent](https://github.com/toufiqfarhan0/neat-hack)** · *TypeScript, Node.js, Fintech APIs*  
+- **[NeatHack Recovery Agent](https://github.com/toufiqfarhan0/neat-hack)** · *TypeScript, Node.js, Fintech APIs*  
   Autonomous AP & treasury recovery agent eliminating duplicate payment false alarms with zero-token O(N) hash blocking. [Video Demo](https://youtu.be/3PDoDcxiO3M)
 
-- 🚀 **[Dryrun](https://github.com/toufiqfarhan0/dryrun)** · *TypeScript, React, IBM watsonx.ai*  
+- **[Dryrun](https://github.com/toufiqfarhan0/dryrun)** · *TypeScript, React, IBM watsonx.ai*  
   Pre-flight release simulation engine powered by IBM Bob 2.0 & watsonx.ai Granite 3.3 to catch cascading outages before deployment. [Live Demo](https://dryrun-ten.vercel.app)
 
-- 🎮 **[AoRun 3D Experience](https://github.com/toufiqfarhan0/3d-game)** · *Three.js, WebGL, TypeScript*  
+- **[AoRun 3D Experience](https://github.com/toufiqfarhan0/3d-game)** · *Three.js, WebGL, TypeScript*  
   Interactive 3D browser-based environment with custom physics and real-time rendering. [Live Demo](https://aorun.netlify.app/)
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <div align="center">
 
@@ -82,5 +82,5 @@
 ---
 
 <div align="center">
-  <sub>Built with focus & curiosity by Toufiq Farhan. Follow on <a href="https://x.com/toufiq_farhan">X (@toufiq_farhan)</a>.</sub>
+  <sub>Built with focus and curiosity by Toufiq Farhan. Follow on <a href="https://x.com/toufiq_farhan">X (@toufiq_farhan)</a>.</sub>
 </div>
